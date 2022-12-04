@@ -1,2 +1,9 @@
 # python
-Python codes
+[Python codes]()
+
+ ` This program prints Hello, world! `
+  ` print('Hello, world!')`.         
+        [Output]()                 
+       ` Hello, world! ` 
+
+ 
